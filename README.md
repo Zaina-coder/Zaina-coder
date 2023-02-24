@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaina-coder
-- 👀 I’m interested in ...Javascript /Html/css C# C++ , Python nd more
+- 👀 I have experience in ...Javascript /Html/css,React ,C# C++ , Python nd more
 - 🌱 I’m currently learning Automation Testing  ..
 - 💞️ I’m looking to collaborate on ..my projects .
 - 📫 How to reach me ...Zeinab.spears22@gmail.com
